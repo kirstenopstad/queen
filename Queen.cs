@@ -15,21 +15,22 @@ public class Queen
     AttackSuccess = false;   
   }
 
-  public void attackable(int x2, int y2)
+  public void Attackable(int x2, int y2)
   {
     float fX2 = x2;
     float fY2 = y2;
-    float pX1 = XPos;
-    float pY1 = YPos;
-
-    Console.WriteLine(fY2, pY1, fX2, pX1);
-    if (XPos == x2 || YPos == y2 || ((fY2 - pY1)/(fX2 - pX1) == 1))
+    
+    if (XPos == x2 || YPos == y2)
     {
     AttackSuccess = true;
-    // return AttackSuccess;
     }
-  }
+    else if (Math.Abs((fY2 - YPos)/(fX2 - XPos)) == 1)
+    {
+    AttackSuccess = true;
+    }
+    }  
 }
+
 
 public class Program
 {
@@ -45,7 +46,7 @@ public class Program
     Console.WriteLine("Enter the enemy Y coordinate");
     int yPos2 = int.Parse(Console.ReadLine());
     // Check for PP attackability
-    playerQueen.attackable(xPos2, yPos2);
+    playerQueen.Attackable(xPos2, yPos2);
     // Print results
     if (playerQueen.AttackSuccess == true)
     {
