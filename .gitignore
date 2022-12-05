@@ -1,2 +1,8 @@
-.obj
-.bin
+obj/
+bin/
+
+# node_modules/
+# .DS_Store // only include this if you are on a Mac
+# dist/
+# coverage/
+# .env
