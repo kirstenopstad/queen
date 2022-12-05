@@ -1,0 +1,15 @@
+/Users/kro/Desktop/Epicodus/c#/queen/obj/Debug/net6.0/Queen.csproj.AssemblyReference.cache
+/Users/kro/Desktop/Epicodus/c#/queen/obj/Debug/net6.0/Queen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kro/Desktop/Epicodus/c#/queen/obj/Debug/net6.0/Queen.AssemblyInfoInputs.cache
+/Users/kro/Desktop/Epicodus/c#/queen/obj/Debug/net6.0/Queen.AssemblyInfo.cs
+/Users/kro/Desktop/Epicodus/c#/queen/obj/Debug/net6.0/Queen.csproj.CoreCompileInputs.cache
+/Users/kro/Desktop/Epicodus/c#/queen/bin/Debug/net6.0/Queen
+/Users/kro/Desktop/Epicodus/c#/queen/bin/Debug/net6.0/Queen.deps.json
+/Users/kro/Desktop/Epicodus/c#/queen/bin/Debug/net6.0/Queen.runtimeconfig.json
+/Users/kro/Desktop/Epicodus/c#/queen/bin/Debug/net6.0/Queen.dll
+/Users/kro/Desktop/Epicodus/c#/queen/bin/Debug/net6.0/Queen.pdb
+/Users/kro/Desktop/Epicodus/c#/queen/obj/Debug/net6.0/Queen.dll
+/Users/kro/Desktop/Epicodus/c#/queen/obj/Debug/net6.0/refint/Queen.dll
+/Users/kro/Desktop/Epicodus/c#/queen/obj/Debug/net6.0/Queen.pdb
+/Users/kro/Desktop/Epicodus/c#/queen/obj/Debug/net6.0/Queen.genruntimeconfig.cache
+/Users/kro/Desktop/Epicodus/c#/queen/obj/Debug/net6.0/ref/Queen.dll
